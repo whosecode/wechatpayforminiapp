@@ -1,0 +1,15 @@
+{
+    "name": "thewings/wechatpayforminiapp",
+    "description": "wechat pay for wechat miniapp",
+    "keywords": ["wechat", "wechatpay"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thewings",
+            "email": "664995777@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
