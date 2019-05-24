@@ -1,0 +1,12 @@
+{
+    "name": "thewings/wechatpayforminiapp",
+    "type": "library",
+    "authors": [
+        {
+            "name": "thewings",
+            "email": "664995777@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
