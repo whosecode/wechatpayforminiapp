@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "thewings/wechatpayforminiapp\\": "src/"
+            "thewings\\wechatpayforminiapp\\": "src/"
         }
     }
 
