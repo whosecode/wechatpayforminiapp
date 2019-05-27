@@ -1,8 +1,12 @@
 <?php
-require_once "WxPay.Exception.php";
-require_once "WxPay.Config.Interface.php";
-require_once "WxPay.Data.php";
+namespace thewings\wechatpayforminiapp\lib;
 
+// require_once "WxPay.Exception.php";
+// require_once "WxPay.Config.Interface.php";
+// require_once "WxPay.Data.php";
+use thewings\wechatpayforminiapp\lib\WxPayException;
+use thewings\wechatpayforminiapp\lib\WxPayConfigInterface;
+use thewings\wechatpayforminiapp\lib\WxPayDataBase;
 /**
  * 
  * 接口访问类，包含所有微信支付API列表的封装，类中方法为static方法，

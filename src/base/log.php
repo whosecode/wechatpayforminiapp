@@ -1,4 +1,5 @@
 <?php
+namespace thewings\wechatpayforminiapp\base;
 //以下为日志
 
 interface ILogHandler

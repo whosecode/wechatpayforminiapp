@@ -1,4 +1,5 @@
 <?php
+namespace thewings\wechatpayforminiapp\lib;
 /**
  * 
  * 微信支付API异常类

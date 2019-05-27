@@ -1,10 +1,12 @@
 <?php
+namespace thewings\wechatpayforminiapp\lib;
 /**
 * 2015-06-29 修复签名问题
 **/
-require_once "WxPay.Config.Interface.php";
-require_once "WxPay.Exception.php";
-
+// require_once "WxPay.Config.Interface.php";
+// require_once "WxPay.Exception.php";
+use thewings\wechatpayforminiapp\lib\WxPayConfigInterface;
+use thewings\wechatpayforminiapp\lib\WxPayException;
 /**
  * 
  * 数据对象基础类，该类中定义数据类最基本的行为，包括：

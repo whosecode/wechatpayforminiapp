@@ -3,7 +3,7 @@
  * 	小程序支付  配置账号信息
  *
  */
-
+namespace thewings\wechatpayforminiapp;
 
 
 define('APPID', '');

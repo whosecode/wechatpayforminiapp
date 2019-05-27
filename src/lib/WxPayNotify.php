@@ -1,4 +1,5 @@
 <?php
+namespace thewings\wechatpayforminiapp\lib;
 /**
  * 
  * 回调基础类
